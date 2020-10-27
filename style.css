@@ -1,0 +1,30 @@
+/* CSS files add styling rules to your content */
+
+.nav-t {
+  display: flex;
+  text-align: right;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background: #009999;
+  padding-left: 40px;
+  background-color: black;
+  text-decoration: none;
+  font-weight: bold;
+  border:solid grey;
+}
+.nav {
+  margin: 10px 10px 10px 10px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+}
+body{
+  background-color:black;
+}
+.name{
+  color:white;
+  display:flex;
+  align-content:center;
+}
